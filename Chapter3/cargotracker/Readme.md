@@ -175,12 +175,12 @@ Handling Module
     {
       "bookingId": "<<BookingId>>"
     }
-    return from Server:
-    	[INFO] ***Voyages are****3
-	[INFO] ***Entity Manager is***JPATxEntityManagerV22@4b0e9c05[PuId=cargotracker#cargotracker.war#cargotracker,    cargotracker#cargotracker.war#cargotracker]
-	[INFO] ****Observing Cargo Routed Event***
-	[INFO] ****cargoRoutedEvent****C426CF86
-	[INFO] ***Going to store in repository
+    * return from Server:
+    	>[INFO] ***Voyages are****3
+	>[INFO] ***Entity Manager is***JPATxEntityManagerV22@4b0e9c05[PuId=cargotracker#cargotracker.war#cargotracker,    cargotracker#cargotracker.war#cargotracker]
+	>[INFO] ****Observing Cargo Routed Event***
+	>[INFO] ****cargoRoutedEvent****C426CF86
+	>[INFO] ***Going to store in repository
 
 
 
